@@ -1,0 +1,9 @@
+cloud:
+  aws:
+    region:
+      static: # input region
+    stack:
+      auto: false
+    credentials:
+      access-key: # input access key
+      secret-key: # input secret key
